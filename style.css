@@ -215,6 +215,13 @@ section {
   background-image: url("images/proj-rock.png");
 }
 
+.project-image.ship {
+  background-image: url("images/proj-ship.png");
+}
+
+.project-image.library {
+  background-image: url("images/proj-library.png");
+}
 
 .project-content {
   padding: 2rem;
