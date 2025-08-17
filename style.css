@@ -351,6 +351,9 @@ footer {
   .project-grid {
     grid-template-columns: 1fr;
   }
+  .hidden-projects.show {
+    grid-template-columns: 1fr;
+}
 
   .contact-info {
     flex-direction: column;
