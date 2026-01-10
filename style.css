@@ -223,6 +223,30 @@ section {
   background-image: url("images/proj-library.png");
 }
 
+.project-image.shopping-cart {
+  background-image: url("images/proj-shopping-cart.png");
+}
+
+.project-image.cv-creator {
+  background-image: url("images/proj-cv-creator.png");
+}
+
+.project-image.memory-game {
+  background-image: url("images/proj-memory-game.png");
+}
+
+.project-image.book-inventory {
+  background-image: url("images/proj-book-inventory.png");
+}
+
+.project-image.members-only {
+  background-image: url("images/proj-members-only.png");
+}
+
+.project-image.file-uploader {
+  background-image: url("images/proj-file-uploader.png");
+}
+
 .project-content {
   padding: 2rem;
 }
@@ -354,7 +378,6 @@ footer {
   .hidden-projects.show {
     grid-template-columns: 1fr;
 }
-
   .contact-info {
     flex-direction: column;
     gap: 1rem;
